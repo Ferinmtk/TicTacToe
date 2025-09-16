@@ -1,0 +1,14 @@
+/home/whiterose/Music/tic-tac-toe/bin/Debug/net8.0/tic-tac-toe
+/home/whiterose/Music/tic-tac-toe/bin/Debug/net8.0/tic-tac-toe.deps.json
+/home/whiterose/Music/tic-tac-toe/bin/Debug/net8.0/tic-tac-toe.runtimeconfig.json
+/home/whiterose/Music/tic-tac-toe/bin/Debug/net8.0/tic-tac-toe.dll
+/home/whiterose/Music/tic-tac-toe/bin/Debug/net8.0/tic-tac-toe.pdb
+/home/whiterose/Music/tic-tac-toe/obj/Debug/net8.0/tic-tac-toe.GeneratedMSBuildEditorConfig.editorconfig
+/home/whiterose/Music/tic-tac-toe/obj/Debug/net8.0/tic-tac-toe.AssemblyInfoInputs.cache
+/home/whiterose/Music/tic-tac-toe/obj/Debug/net8.0/tic-tac-toe.AssemblyInfo.cs
+/home/whiterose/Music/tic-tac-toe/obj/Debug/net8.0/tic-tac-toe.csproj.CoreCompileInputs.cache
+/home/whiterose/Music/tic-tac-toe/obj/Debug/net8.0/tic-tac-toe.dll
+/home/whiterose/Music/tic-tac-toe/obj/Debug/net8.0/refint/tic-tac-toe.dll
+/home/whiterose/Music/tic-tac-toe/obj/Debug/net8.0/tic-tac-toe.pdb
+/home/whiterose/Music/tic-tac-toe/obj/Debug/net8.0/tic-tac-toe.genruntimeconfig.cache
+/home/whiterose/Music/tic-tac-toe/obj/Debug/net8.0/ref/tic-tac-toe.dll
