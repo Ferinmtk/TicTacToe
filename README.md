@@ -1,6 +1,6 @@
-# 🎮 C# Tic-Tac-Toe Project
+# C# Tic-Tac-Toe Project
 
-## ✅ Features
+## Features
 This project demonstrates **all module requirements**:
 - Variables (tracking players, board, moves)
 - Expressions (board checks, conditions)
@@ -12,7 +12,7 @@ This project demonstrates **all module requirements**:
 - Inheritance (abstract `Player` class extended by `HumanPlayer`)
 - File I/O (results saved in `results.txt`)
 
-## ▶️ How to Run
+## How to Run
 1. Install [.NET SDK](https://dotnet.microsoft.com/download).
 2. Clone this repo or copy files.
 3. Run:
