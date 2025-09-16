@@ -12,3 +12,4 @@
 /home/whiterose/Music/tic-tac-toe/obj/Debug/net8.0/tic-tac-toe.pdb
 /home/whiterose/Music/tic-tac-toe/obj/Debug/net8.0/tic-tac-toe.genruntimeconfig.cache
 /home/whiterose/Music/tic-tac-toe/obj/Debug/net8.0/ref/tic-tac-toe.dll
+/home/whiterose/Music/tic-tac-toe/obj/Debug/net8.0/tic-tac-toe.sourcelink.json
